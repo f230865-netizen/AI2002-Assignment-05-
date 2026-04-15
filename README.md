@@ -1,9 +1,7 @@
-# AI2002-Assignment-05-
+
 CSP-based Sudoku Solver using Backtracking, Forward Checking and AC-3
 # CSP-based-Sudoku-Solver
 SP-based Sudoku Solver using Backtracking, Forward Checking and AC-3
-# AI2002 Artificial Intelligence
-## Assignment 05 – Sudoku as a CSP
 
 **Student:** Saad Fareed  
 **Course Instructor:** Dr. Hashim Yaseen  
